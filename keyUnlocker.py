@@ -51,5 +51,3 @@ def keyExtractor():
             print(bcolors.YELLOW + 'decrypted key file successfully ... ' + bcolors.ENDC)
             file.close()
             return(decrypted_key)
-
-#TealDottie 
